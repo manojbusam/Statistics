@@ -8,15 +8,14 @@ In data science, mean, median, and standard deviation unveil data patterns; loga
 
 Make sure you have the following installed:
 
-| Tool                          | Version/Requirements       |
-|-------------------------------|----------------------------|
-| [Python](https://www.python.org/downloads/) | 3.6+ |
-| [Jupyter Notebook](https://jupyter.org/install) | - |
-| Requests | Required |
-| BeautifulSoup4 | Required |
-| Pandas | Required |
-| Matplotlib | Required |
-| Seaborn | Required |
+[![Python](https://img.shields.io/badge/Python-3.6+-blue)](https://www.python.org/downloads/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/install)
+![Requests](https://img.shields.io/badge/requests-required-green)
+![BeautifulSoup4](https://img.shields.io/badge/beautifulsoup4-required-green)
+![Pandas](https://img.shields.io/badge/pandas-required-green)
+![Matplotlib](https://img.shields.io/badge/matplotlib-required-green)
+![Seaborn](https://img.shields.io/badge/seaborn-required-green)
+
 
 - **a-mean-median-mode:** 
   - Central tendencies, data distribution summary.
