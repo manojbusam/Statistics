@@ -1,6 +1,6 @@
-## Statistics
+## Descriptive Statistics
 
-In data science, mean, median, and standard deviation unveil data patterns; logarithms and cosine similarity aid scaling and similarity measurements, while the modified z-score enhances accuracy by detecting outliers, forming a vital toolkit for data analysis.
+In data science, mean, median and standard deviation unveil data patterns; logarithms and cosine similarity aid scaling and similarity measurements, while the modified z-score enhances accuracy by detecting outliers, forming a vital toolkit for data analysis.
 
 ## Getting Started
 
