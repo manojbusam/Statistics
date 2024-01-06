@@ -37,4 +37,22 @@ Use Case: **Uniform Distribution in eCommerce: Product Pricing Strategy**
 **Analysis and Optimization**: If there's a notable shift in the distribution (e.g., products consistently priced at the extremes), the platform analyzes market trends or consumer behavior to optimize the pricing strategy within the defined range.
 
 In this scenario, leveraging the Uniform distribution aids in maintaining pricing control, making informed pricing decisions, devising market strategies, and optimizing product pricing within the eCommerce platform.
+
 ![Screenshot 2024-01-05 at 11 37 30 PM](https://github.com/manojbusam/Statistics/assets/44409170/04525069-1e8f-48a5-9039-814350b3c810)
+
+### 3. Cauchy Distribution
+The Cauchy distribution is a continuous probability distribution characterized by its symmetric bell-shaped curve with heavier tails than the Normal distribution.
+
+### Use Case: Cauchy Distribution in eCommerce Shipping
+
+**Analysis**: Analyzing historical shipping data, the eCommerce platform discovers that shipping times for a specific product category follow a Cauchy distribution with a median shipping time of 5 days and a scale parameter of 1 day.
+
+**Quality Control**: Using this distribution, the platform sets quality control parameters for shipping times. They establish that any shipping duration exceeding 10 days will be flagged for investigation, acknowledging the Cauchy distribution's potential for longer outliers.
+
+**Decision Making**: When monitoring new shipments, the platform assesses whether the shipping duration surpasses the predefined threshold (based on the Cauchy distribution parameters). This assists in making decisions about whether to investigate potential delays beyond the expected range.
+
+**Improvement**: If there's a consistent increase in shipments exceeding the quality control threshold (e.g., more shipments taking longer than 10 days), the platform investigates operational processes, logistics, or external factors impacting shipping to rectify and optimize the delivery system.
+
+In this scenario, utilizing the Cauchy distribution aids in quality control by setting thresholds, making decisions based on predefined parameters, and identifying areas for improvement within the eCommerce platform's shipping processes.
+
+![Screenshot 2024-01-05 at 11 43 18 PM](https://github.com/manojbusam/Statistics/assets/44409170/aaf6416d-c96a-4bf8-b203-7202569f468e)
