@@ -19,7 +19,6 @@ Use Case: **Normal Distribution in eCommerce: Product Delivery Times**
 
 In this scenario, leveraging the Normal distribution aids in setting quality standards, making decisions about delivery times, and identifying areas for improvement in managing product deliveries within the eCommerce platform.
 
-Absolutely! Here's an example of applying the Uniform distribution in eCommerce using your requested format:
 ![Screenshot 2024-01-05 at 11 36 59 PM](https://github.com/manojbusam/Statistics/assets/44409170/d02ef9af-53ae-46c6-88a9-a30031e505aa)
 
 ### 2. Uniform Distribution
