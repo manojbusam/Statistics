@@ -4,7 +4,7 @@ This repository contains implementations and examples of various probability dis
 
 ## Included Distributions
 
-### Normal Distribution
+### 1. Normal Distribution
 The Normal distribution, also known as the Gaussian distribution, is a continuous probability distribution that is symmetric and bell-shaped. It's characterized by its mean and standard deviation.
 
 Use Case: **Quality Control in Manufacturing**
@@ -18,7 +18,7 @@ Use Case: **Quality Control in Manufacturing**
 **Improvement**: If we notice a shift in the distribution (perhaps bulbs consistently lasting less than 950 hours), they can investigate their manufacturing process to identify and rectify any issues causing this deviation.
 
 
-### Binomial Distribution
+### 2. Binomial Distribution
 The Binomial distribution describes the number of successes in a fixed number of independent Bernoulli trials, each with the same probability of success.
 
 Use Case: **Quality Control in Production**
@@ -33,7 +33,7 @@ Use Case: **Quality Control in Production**
 
 In this scenario, the Binomial distribution assists in setting quality standards, making decisions on batch acceptance, and identifying areas for process improvement in manufacturing by analyzing the probability of defective items in a batch.
 
-### Poisson Distribution
+### 3. Poisson Distribution
 The Poisson distribution models the number of events occurring within a fixed interval of time or space, given a known average rate of occurrence.
 
 Use Case: **Traffic Flow Analysis**
