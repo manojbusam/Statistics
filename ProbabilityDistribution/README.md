@@ -7,6 +7,17 @@ This repository contains implementations and examples of various probability dis
 ### Normal Distribution
 The Normal distribution, also known as the Gaussian distribution, is a continuous probability distribution that is symmetric and bell-shaped. It's characterized by its mean and standard deviation.
 
+Use Case: **Quality Control in Manufacturing**
+**Analysis**: Analyze data to find the lifespan of the bulbs follows a Normal distribution with a mean (average) of 1000 hours and a standard deviation of 50 hours.
+
+**Quality Control**: Using this distribution, we can set quality control standards. For instance, we might decide that any bulb that lasts less than 950 hours or more than 1050 hours is considered defective.
+
+**Decision Making**: Whenever we produce a batch of bulbs, we randomly select a few from the batch and test their lifespan. By assuming a Normal distribution and using statistical tools, we can confidently make decisions about whether the batch meets their quality standards without testing every single bulb.
+
+**Improvement**: If we notice a shift in the distribution (perhaps bulbs consistently lasting less than 950 hours), they can investigate their manufacturing process to identify and rectify any issues causing this deviation.
+
+
+
 ### Binomial Distribution
 The Binomial distribution describes the number of successes in a fixed number of independent Bernoulli trials, each with the same probability of success.
 
