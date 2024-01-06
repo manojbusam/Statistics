@@ -1,4 +1,4 @@
-# Distributions Repository
+# Probability Distributions
 
 This repository contains implementations and examples of various probability distributions commonly used in statistics.
 
