@@ -56,3 +56,56 @@ The Cauchy distribution is a continuous probability distribution characterized b
 In this scenario, utilizing the Cauchy distribution aids in quality control by setting thresholds, making decisions based on predefined parameters, and identifying areas for improvement within the eCommerce platform's shipping processes.
 
 ![Screenshot 2024-01-05 at 11 43 18 PM](https://github.com/manojbusam/Statistics/assets/44409170/aaf6416d-c96a-4bf8-b203-7202569f468e)
+
+### 4. t Distribution
+The t-distribution, also known as Student's t-distribution, is a continuous probability distribution that resembles the Normal distribution but is characterized by heavier tails, allowing for a better representation of uncertainty in small sample sizes.
+
+### Use Case: t Distribution in Market Research Survey Analysis
+
+**Analysis**: Analyzing survey data from a market research study, researchers find that the distribution of respondent ages follows a t-distribution with a mean age of 35 and a scale parameter that accounts for the uncertainty in the sample.
+
+**Statistical Inference**: Utilizing the t-distribution, researchers conduct hypothesis testing to determine if the average age of respondents differs significantly from the expected value. The t-distribution accounts for the smaller sample size's increased uncertainty compared to a Normal distribution.
+
+**Decision Making**: When evaluating the impact of age on product preferences, marketers rely on the t-distribution to calculate confidence intervals for age groups, helping make informed decisions regarding targeted marketing strategies.
+
+**Sample Size Consideration**: Recognizing the importance of sample size, especially in small surveys, researchers use the t-distribution to determine the minimum sample size required for future studies to achieve desired confidence levels in age-related analysis.
+
+In this scenario, the t-distribution is instrumental in statistical inference, aiding decision-making processes, and considering the uncertainties associated with smaller sample sizes in market research analysis.
+
+![Screenshot 2024-01-05 at 11 45 59 PM](https://github.com/manojbusam/Statistics/assets/44409170/a4d327ed-f456-4ebe-a860-7f7eda9519d3)
+
+### 5. F Distribution
+The F-distribution, named after Sir Ronald Fisher, is a continuous probability distribution that arises in the analysis of variances and ratios of sample variances. It's commonly used in statistics, particularly in analysis of variance (ANOVA) and regression analysis.
+
+### Use Case: F Distribution in ANOVA for Product Testing
+
+**Analysis**: Performing an ANOVA test for evaluating the effectiveness of three different fertilizer brands on crop yield, researchers observe that the distribution of crop yield ratios among the fertilizer groups follows an F-distribution.
+
+**Statistical Testing**: Using the F-distribution, researchers perform ANOVA to assess if there are significant differences in crop yield means among the fertilizer groups. The F-test determines if the variance between group means is larger than expected by chance.
+
+**Decision Making**: Based on the ANOVA results, agricultural scientists decide whether there's sufficient evidence to conclude that at least one fertilizer brand significantly differs in crop yield compared to the others, aiding in informed decisions for agricultural practices.
+
+**Model Comparison**: In regression analysis, the F-distribution is employed to compare nested linear models, determining if adding additional predictor variables significantly improves the model's fit.
+
+In this scenario, the F-distribution plays a crucial role in statistical testing, aiding in decision-making processes regarding fertilizer effectiveness and model comparison in regression analysis for agricultural research.
+
+![Screenshot 2024-01-05 at 11 47 04 PM](https://github.com/manojbusam/Statistics/assets/44409170/e0eb5159-1969-40ba-97dd-e166d6b59579)
+
+
+### 6. Chi-Square Distribution
+The Chi-Square distribution is a continuous probability distribution that arises in statistics and is widely used in hypothesis testing and confidence interval construction, particularly in tests of independence and goodness of fit.
+
+### Use Case: Chi-Square Distribution in Goodness-of-Fit Test
+
+**Analysis**: Conducting a goodness-of-fit test to assess if observed data fits an expected distribution, statisticians observe that the distribution of observed frequencies across categories follows a Chi-Square distribution.
+
+**Hypothesis Testing**: Using the Chi-Square distribution, statisticians perform hypothesis tests to determine if there's a significant difference between the observed and expected frequencies in categorical data. This aids in understanding if the observed data fits the expected distribution or not.
+
+**Quality Control**: In manufacturing, the Chi-Square distribution is applied to assess whether the observed frequency of defective items in different categories significantly deviates from the expected defect rate, helping in quality control processes.
+
+**Association Testing**: In social sciences, the Chi-Square distribution is utilized to test for association or independence between categorical variables in surveys or studies.
+
+In this scenario, the Chi-Square distribution is fundamental in hypothesis testing, quality control, and association analysis, aiding in making informed decisions based on observed categorical data in various fields such as statistics, manufacturing, and social sciences.
+
+
+![Screenshot 2024-01-05 at 11 48 13 PM](https://github.com/manojbusam/Statistics/assets/44409170/169d28a6-88c8-4cf5-bbb8-ab8d09e550d8)
